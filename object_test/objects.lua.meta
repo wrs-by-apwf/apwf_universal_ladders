@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: edcdcc5baf4caf4448880b590c7d0821
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: apwf_externalladders.unity3d
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: ff82a7deccd147088458b7946bd373b1, type: 3}
