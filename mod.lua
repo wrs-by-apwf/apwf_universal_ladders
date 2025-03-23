@@ -1,6 +1,6 @@
 return {
 	author		= "Jérôme (APWF)",
-	version		= "1",
+	version		= "dev-00.00.00.02",
 	title		= " - [ABM] Universal Ladders",
 	description	= "climb like you never did",
 	targetGame        = "WRS-S2",

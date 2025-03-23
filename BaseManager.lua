@@ -1,6 +1,6 @@
 BaseLaddersManager = {}
 
-local mod, BundleId = ModLoader.getModByName("abm_ladders");
+local mod, BundleId = ModLoader.getModByName("apwf_ladders");
 g_LaddersBundleId = BundleId;
 
 function PrintTable(Table)
